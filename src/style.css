@@ -1,0 +1,12 @@
+.form label,
+.form .errors {
+    display: block;
+}
+
+.form div {
+    margin: 10px 0;
+}
+
+.form .errors {
+    color: rgb(219, 43, 37);
+}
